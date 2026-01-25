@@ -1,0 +1,12 @@
+SoulInPsyAbstract-LAND/
+├─ README.md
+├─ LAND.yml
+├─ HUBS/
+│  ├─ PUBLIC/
+│  ├─ WORKING/
+│  ├─ RESEARCH/
+│  ├─ ARCHIVE/
+│  └─ LOGS/
+├─ WORKERS/
+│  └─ land-worker.yml
+└─ RESTRICTIONS.md
