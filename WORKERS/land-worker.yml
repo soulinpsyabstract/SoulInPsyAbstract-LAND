@@ -1,0 +1,9 @@
+worker: land-operator
+trigger: human
+actions:
+  - organize_files
+  - prepare_publication
+  - archive_outputs
+restrictions:
+  - no_execution
+  - no_system_control
