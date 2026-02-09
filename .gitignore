@@ -1,0 +1,11 @@
+.env*
+runtime/
+RUNTIME/
+*.log
+*.pid
+SAFE_V3/
+*_BUILD/
+ERA_ZIPS/
+FIXATIONS/
+*.zip
+*.sha256
